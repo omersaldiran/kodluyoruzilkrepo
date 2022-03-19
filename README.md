@@ -27,3 +27,7 @@ Pull requestler kabul edilir. Büyük değişiklikler için, lütfen önce neyi 
 ## License
 
 [MIT](https://opensource.org/licenses/MIT)
+
+### Picture
+
+![Ornek Gorsel](http://kokut.com/wp-content/uploads/2017/04/Sea-View-Hut1-1.jpg)
